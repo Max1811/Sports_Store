@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ProductModel>
+
+<div class="product-container main-container">
+    <div class="products-for-category">
+        <h2 class="category-title">Products list:</h2>
+        <ul class="products-list">
+            @foreach (var item in Model)
+            {
+                <li class="product-card">
+                    <div class="blur">
+                        <div class="buttons">
+
+                            <a class="big-button button add-to-cart-btn" data-product="@item.Id"><i class="fas sign fa-shopping-basket big-button-title"></i></a>
+
+                            <a class="big-button button" href="@Url.Action("DeleteProductFromList", "Product", new { id = item.Id} )">
+                                <p class="big-button-title">Delete item</p>
+                            </a>
+                        </div>
+
+                    </div>
+                    <div class="title">
+                        <h2 class="product-name">@item.Name</h2>
+                        <p class="price">Price:@item.Price$</p>
+
+
+                    </div>
+                </li>
+            }
+        </ul>
+        <div class="admin-form-container">
+            <h2 class="title">Add product:</h2>
+            <form class="product-add-form" asp-action="AddProductToList" asp-controller="Product">
+                <input type="text" name="Name" placeholder="name:" />
+                <input type="text" name="Price" placeholder="price:" />
+                <input type="text" name="Description" placeholder="description:" />
+                <input type="submit" class="submit-button" />
+            </form>
+        </div>
+    </div>
+
+
+</div>

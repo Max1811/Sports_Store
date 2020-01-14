@@ -1,0 +1,35 @@
+2020-01-12 22:20:21.793 +02:00 [INF] Starting program
+2020-01-12 23:15:37.821 +02:00 [INF] Starting program
+2020-01-12 23:15:37.836 +02:00 [INF] ------------------------------
+2020-01-12 23:15:40.772 +02:00 [INF] Trying to initialize with seed data if it needs
+2020-01-12 23:15:43.580 +02:00 [INF] Data initialized correctly
+2020-01-12 23:17:20.528 +02:00 [INF] Starting program
+2020-01-12 23:17:20.549 +02:00 [INF] ------------------------------
+2020-01-12 23:17:22.019 +02:00 [INF] Trying to initialize with seed data if it needs
+2020-01-12 23:17:24.157 +02:00 [INF] Data initialized correctly
+2020-01-12 23:20:12.397 +02:00 [INF] Starting program
+2020-01-12 23:20:12.421 +02:00 [INF] ------------------------------
+2020-01-12 23:20:13.152 +02:00 [INF] Trying to initialize with seed data if it needs
+2020-01-12 23:20:14.492 +02:00 [INF] Data initialized correctly
+2020-01-12 23:27:19.044 +02:00 [INF] Starting program
+2020-01-12 23:27:19.072 +02:00 [INF] ------------------------------
+2020-01-12 23:27:20.646 +02:00 [INF] Trying to initialize with seed data if it needs
+2020-01-12 23:27:23.083 +02:00 [INF] Data initialized correctly
+2020-01-12 23:27:50.233 +02:00 [INF] Starting program
+2020-01-12 23:27:50.251 +02:00 [INF] ------------------------------
+2020-01-12 23:27:50.934 +02:00 [INF] Trying to initialize with seed data if it needs
+2020-01-12 23:27:51.967 +02:00 [INF] Data initialized correctly
+2020-01-12 23:30:31.013 +02:00 [INF] Starting program
+2020-01-12 23:30:31.041 +02:00 [INF] ------------------------------
+2020-01-12 23:30:32.698 +02:00 [INF] Trying to initialize with seed data if it needs
+2020-01-12 23:30:34.547 +02:00 [INF] Data initialized correctly
+2020-01-13 01:37:00.320 +02:00 [INF] Starting program
+2020-01-13 01:37:00.351 +02:00 [INF] ------------------------------
+2020-01-13 01:37:06.123 +02:00 [INF] Trying to initialize with seed data if it needs
+2020-01-13 01:37:10.483 +02:00 [INF] Data initialized correctly
+2020-01-13 20:36:26.936 +02:00 [INF] Starting program
+2020-01-13 20:36:26.955 +02:00 [INF] ------------------------------
+2020-01-13 20:36:29.354 +02:00 [INF] Trying to initialize with seed data if it needs
+2020-01-13 20:37:31.543 +02:00 [INF] Starting program
+2020-01-13 20:37:31.553 +02:00 [INF] ------------------------------
+2020-01-13 20:37:32.093 +02:00 [INF] Trying to initialize with seed data if it needs
